@@ -1,0 +1,8 @@
+If we write any decimal value as an input then it automatically it will be assigned as an Double Data Type but in order to give it a Floating data type
+we will have to specify it:{
+    for eg: float f1= 5.6;(Assigned as double)
+            float f2= 4.8f;(Assigned as float)
+}
+To define a long integer we will also have to provide a "l" at the end of the number in order to specify it as a long data type{
+    long ageDino = 72992992939929329l;
+}

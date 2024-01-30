@@ -1,0 +1,10 @@
+Following table summarizes the resulting data types after arithmetic operations on them:{
+    byte + short = int
+    short + int = int
+    long + float = float
+    int + float = float
+    character + int = int
+    character + short = int
+    long + double = double
+    float + double = double
+}

@@ -1,0 +1,18 @@
+There are four types of operators:{
+    Arithmetic operators (+,-,*,/,%,++,--)
+    Assignment operators (=,+=,-+,*=,/=) -> Assignes Values to the variable 
+    Comparision operators (==,<=,>=)
+    Logical operators (&&,||,!)
+    Bitwise operators (&,|)
+}
+The += means that add the value in the already defined variable:{
+    for eg: int b = 9;
+    b += 3;
+    Output will be 12 ie 9+3 
+}
+&&{
+    Make sures that both conditions are true and if yes then it will give output as true
+}
+|| {
+    Will make sure that either of the condition is true, if yes then it will return true
+}

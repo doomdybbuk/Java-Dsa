@@ -1,0 +1,5 @@
+In the example which we have used we see that in both "/" and "*" have the same precedence but the associativity for them is left to right:{
+    left-> right
+    that is why the equation number 2 is solved using that
+}
+Highest precedence is given to * and /

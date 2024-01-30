@@ -1,0 +1,3 @@
+Scanner sc =  new Scanner(System.in) , System.in referes that we are taking input from the keyboard
+
+We can also check if the user has entered a number by : "sc.hasNextInt"

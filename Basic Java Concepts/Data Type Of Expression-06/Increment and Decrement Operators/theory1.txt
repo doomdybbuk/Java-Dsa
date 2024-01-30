@@ -1,0 +1,8 @@
+The actual meaning of increment and decrement operator is:{
+    If int i = 22;
+    System.out.println(i++)
+    - This means that first i will be printed and then its value is going to increase, Here the output is 22.
+    - If instead of i++ it will be ++i then first the value of i will increase  (22 -> 23)
+      and then it will be printed so the output will be 23.
+    - Same logic goes for decrement operator which is i-- and --i.
+}

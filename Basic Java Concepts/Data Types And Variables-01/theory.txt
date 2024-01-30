@@ -1,0 +1,10 @@
+Two main types of data types in java- Primitive Data Type and Non Primitive Data Type
+
+Primitive Data Type- int, byte , long , float , char, double , bool , short
+
+Non Primitive Data Types : Derived from Primitive Data Types {
+    Integral , Floating Point(Decimal) , Char , Boolean
+}
+Variable is a container that stores value, its value can be changed at any point throughout:{
+    eg: int number = 8
+}
