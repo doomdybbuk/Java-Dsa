@@ -1,7 +1,7 @@
 // Write a program to calculate percentage of a given student in icse board exam. His
 // marks from 5 subjects  must be taken as an input for the calculation
 
-import java.util.Scanner;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {

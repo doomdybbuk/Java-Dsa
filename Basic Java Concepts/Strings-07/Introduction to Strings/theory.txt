@@ -1,0 +1,2 @@
+String is a class in java and not a primitive data type. Since it has special support we can also use it as primitive data type
+Strings are immutable and cannot be changed
