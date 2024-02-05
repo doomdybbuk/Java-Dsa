@@ -1,0 +1,32 @@
+If i want to count the number of letters in a given string then we use : stringname.length();
+the ".length" will give the count of the characters in the string
+
+
+stringname.toLowerCase() -> This will return the string name in all lower case values;
+
+stringname.toUpperCase() -> This will return the string name in all upper case values;
+
+stringname.trim() ->  This will trim all the unnecessary spaces from the string;
+
+stringname.subString(int start,int end) -> The substring function will only return the charcters which will be defined by the int start and int end by the user.
+
+stringname.replace('oldCharacter','newCharacter') -> This function will replace any certain charcter from the string which is defined above and will change/replace the character as per the user choice;
+
+stringname.startsWith("string") -> This is a boolean function which will check if the start of the string is same as the value in the parenthesis passed.
+
+stringname.endsWith("string") -> Same as stringname.startsWith but just instead of start it will check for the end;
+
+stringname.ChatAt(int) -> The charAt function will print the charcater which will be asked/taken input in the parenthesis "charAt()";
+
+stringname.indexOf(string) ->This will return the index number of the given string passed in the parenthesis. The value of this is integer;
+
+stringname.indexOf("string",int) -> The int in the parenthesis will make sure that the starting point of the search is from that index and the string in the parenthesis will take input of what string's index is to be found;
+
+stringname.lastIndexOf("string") -> This is same as the indexOf but the only difference is that in this the count will being from the last index and not from the first. So for eg is there are two a's in the name "Manan" then if we use the function lastIndexOf then the ouput for "a" will be 3 and if we had just used indexOf the the output for "a" will be 1;
+
+stringname.lastIndexOf("string",int) -> Same as indexOf("string",int) but it will fix the index from the last and not from the start;
+
+stringname.equals("string") -> This will check if the upper string defined is same as the string passed in the parenthesis. This is case sensitive;
+
+stringname.equalsIgnoreCase("string") -> This is same as stringname.equals("string") but this is not case sensitive;
+
